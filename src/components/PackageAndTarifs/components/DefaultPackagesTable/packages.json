@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "packageTitle": "پنل رایگان",
+    "accessType": "کاربری",
+    "smsPackage": "کاربری رایگان",
+    "packagePrice": "0",
+    "extensionPrice": "0",
+    "intialCredit": "0",
+    "lineOff": "0",
+    "timeAmount": 365,
+    "childUsers": "0",
+    "onlineRegister": true,
+    "active": true
+  },
+  {
+    "id": 2,
+    "packageTitle": "پنل شرکتی",
+    "accessType": "کاربری",
+    "smsPackage": "کاربری شرکتی",
+    "packagePrice": "700000",
+    "extensionPrice": "350000",
+    "intialCredit": "50000",
+    "lineOff": "0",
+    "timeAmount": 365,
+    "childUsers": 5,
+    "onlineRegister": true,
+    "active": true
+  },
+  {
+    "id": 3,
+    "packageTitle": "پنل تجاری",
+    "accessType": "کاربری",
+    "smsPackage": "کاربری تجاری",
+    "packagePrice": "1000000",
+    "extensionPrice": "500000",
+    "intialCredit": "750000",
+    "lineOff": "0",
+    "timeAmount": 365,
+    "childUsers": 10,
+    "onlineRegister": true,
+
+    "active": true
+  },
+  {
+    "id": 4,
+    "packageTitle": "پنل طلایی",
+    "accessType": "نمایندگی",
+    "smsPackage": "نمایندگی طلایی",
+    "packagePrice": "15000000",
+    "extensionPrice": "7500000",
+    "intialCredit": "100000",
+    "lineOff": "15%",
+    "timeAmount": 365,
+    "childUsers": 15,
+    "onlineRegister": true,
+    "active": true
+  },
+  {
+    "id": 5,
+    "packageTitle": "پنل نقره ای",
+    "accessType": "نمایندگی",
+    "smsPackage": "نمایندگی نقره ای",
+    "packagePrice": "50000000",
+    "extensionPrice": "2500000",
+    "intialCredit": "1000000",
+    "lineOff": "20%",
+    "timeAmount": 365,
+    "childUsers": 20,
+    "onlineRegister": true,
+    "active": true
+  }
+]

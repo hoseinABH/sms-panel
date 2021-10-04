@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "routeName": "آسانک",
+    "routeLink": "www.panel.asanak.ir/CompositeSmsGateway",
+    "routeAddress": "sbsms.ir/asanak",
+    "smsRecieveAddress": "sbsms.ir/receiveSms/AsanakReceive.php",
+    "active": true
+  },
+  {
+    "id": 2,
+    "routeName": "رهیاب 02",
+    "routeLink": "www.panel.rahyab.ir/RahYabSmsService",
+    "routeAddress": "sbsms.ir/rahyab",
+    "smsRecieveAddress": "sbsms.ir/receiveSms/RahYabReceive.php",
+    "active": true
+  }
+]

@@ -1,0 +1,24 @@
+image: docker:latest
+services:
+  - docker:dind
+
+stages:
+  - deploy
+
+
+deployment:
+  stage: deploy
+  only:
+    - dev
+  retry:
+    max: 2
+    when:
+      - runner_system_failure
+      - stuck_or_timeout_failure
+      - unknown_failure
+  script:
+    - sudo apt-get install -y docker-compose
+    - sudo docker image prune -f
+    - sudo docker-compose -f docker-compose.prod.yml build
+    - sudo docker-compose -f docker-compose.prod.yml up -d
+  when: manual

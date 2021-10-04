@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "notificationName": "افزایش تعرفه",
+    "CreatedAt": "17/2/1377",
+    "releaseLayer": "کل سورس",
+    "text": "با سلام خدمت کاربران گرامی تعرفه خطوط 1000 برای..",
+    "attachedFile": "ندارد",
+    "notificationType": "success",
+    "viewStatus": "فعال"
+  },
+  {
+    "id": 2,
+    "notificationName": "افزایش تعرفه",
+    "CreatedAt": "17/2/1377",
+    "releaseLayer": "کاربران",
+    "text": "با سلام خدمت کاربران گرامی تعرفه خطوط 1000 برای..",
+    "attachedFile": "دارد",
+    "notificationType": "error",
+    "viewStatus": "فعال"
+  },
+  {
+    "id": 3,
+    "notificationName": "افزایش تعرفه",
+    "CreatedAt": "17/2/1377",
+    "releaseLayer": "کل سورس",
+    "text": "با سلام خدمت کاربران گرامی تعرفه خطوط 1000 برای..",
+    "attachedFile": "ندارد",
+    "notificationType": "info",
+    "viewStatus": "آرشیو شده"
+  },
+  {
+    "id": 4,
+    "notificationName": "افزایش تعرفه",
+    "CreatedAt": "17/2/1377",
+    "releaseLayer": "نمایندگان",
+    "text": "با سلام خدمت کاربران گرامی تعرفه خطوط 1000 برای..",
+    "attachedFile": "ندارد",
+    "notificationType": "warning",
+    "viewStatus": "عدم نمایش"
+  },
+  {
+    "id": 5,
+    "notificationName": "افزایش تعرفه",
+    "CreatedAt": "17/2/1377",
+    "releaseLayer": "کل سورس",
+    "text": "با سلام خدمت کاربران گرامی تعرفه خطوط 1000 برای..",
+    "attachedFile": "ندارد",
+    "notificationType": "success",
+    "viewStatus": "آرشیو شده"
+  }
+]

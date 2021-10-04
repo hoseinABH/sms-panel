@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "اپراتور 1000",
+    "route": "رهیاب",
+    "numbersCount": 55,
+    "serviceNumbersCount": 5,
+    "AdvertisingNumbersCount": 50,
+    "active": true,
+    "chargeBalance": 84875
+  },
+  {
+    "id": 2,
+    "name": "اپراتور 1000",
+    "route": "اسانک",
+    "numbersCount": 10,
+    "serviceNumbersCount": "0",
+    "AdvertisingNumbersCount": 10,
+    "active": true,
+    "chargeBalance": 15000
+  },
+  {
+    "id": 3,
+    "name": "اپراتور 3000",
+    "route": "مگفا",
+    "numbersCount": 5,
+    "serviceNumbersCount": "0",
+    "AdvertisingNumbersCount": 5,
+    "active": true,
+    "chargeBalance": 25000
+  },
+  {
+    "id": 4,
+    "name": "وبسرویس خدماتی",
+    "route": "رهیاب",
+    "numbersCount": 2,
+    "serviceNumbersCount": 2,
+    "AdvertisingNumbersCount": "0",
+    "active": true,
+    "chargeBalance": 84875
+  },
+  {
+    "id": 5,
+    "name": "اپراتور 50002",
+    "route": "سرزمین هوشمند",
+    "numbersCount": 7,
+    "serviceNumbersCount": "0",
+    "AdvertisingNumbersCount": 7,
+    "active": false,
+    "chargeBalance": "0"
+  }
+]

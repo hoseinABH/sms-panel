@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "packageTitle": "کاربری رایگان",
+    "description": "",
+    "from": "1",
+    "to": "100000",
+    "lastUpdate": "17/2/1377",
+    "customers": 145,
+    "active": true
+  },
+  {
+    "id": 2,
+    "packageTitle": "کاربری شرکتی",
+    "description": "",
+    "from": "50001",
+    "to": "100000",
+    "lastUpdate": "17/2/1377",
+    "customers": 66,
+    "active": true
+  },
+  {
+    "id": 3,
+    "packageTitle": "کاربری تجاری",
+    "description": "",
+    "from": "1",
+    "to": "1262000",
+    "lastUpdate": "17/2/1377",
+    "customers": 52,
+    "active": true
+  },
+  {
+    "id": 4,
+    "packageTitle": "کاربری طلایی",
+    "description": "",
+    "from": "4520",
+    "to": "95600",
+    "lastUpdate": "17/2/1377",
+    "customers": 85,
+    "active": true
+  },
+  {
+    "id": 5,
+    "packageTitle": "کاربری نقره ای",
+    "description": "",
+    "from": "4566",
+    "to": "356000",
+    "lastUpdate": "17/2/1377",
+    "customers": 12,
+    "active": true
+  }
+]

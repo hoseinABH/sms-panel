@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "bankName": "ملت",
+    "paymentType": "درگاه و ثبت فیش",
+    "accountOwner": "حسین حاصلی",
+    "accountNumber": "0123456789",
+    "cardNumber": "61049831045286015",
+    "shabaNumber": "IR04061000000000070453305",
+    "acceptorCode": "1182455",
+    "username": "sedad",
+    "password": "******",
+    "gateway": "ملت",
+    "active": true
+  },
+  {
+    "id": 2,
+    "bankName": "پارسیان",
+    "paymentType": "درگاه و ثبت فیش",
+    "accountOwner": "حسین حاصلی",
+    "accountNumber": "0123456789",
+    "cardNumber": "6104831045286015",
+    "shabaNumber": "IR04061000000000070453305",
+    "acceptorCode": "E31K43n283JTK7L82O3e",
+    "username": "",
+    "password": "",
+    "gateway": "پارسیان",
+    "active": true
+  }
+]

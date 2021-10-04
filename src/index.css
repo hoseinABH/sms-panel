@@ -1,0 +1,146 @@
+/* Font Faces */
+
+/* Iran Yekan Font Family */
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('./assets/fonts/iranyekan/iranyekanwebthin.ttf') format('truetype');
+  font-weight: 100;
+  unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('./assets/fonts/iranyekan/iranyekanweblight.ttf') format('truetype');
+  font-weight: 300;
+  unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('./assets/fonts/iranyekan/iranyekanwebregular.ttf') format('truetype');
+  font-weight: 400;
+  unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('./assets/fonts/iranyekan/iranyekanwebmedium.ttf') format('truetype');
+  font-weight: 500;
+  unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('./assets/fonts/iranyekan/iranyekanwebbold.ttf') format('truetype');
+  font-weight: 700;
+  unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('./assets/fonts/iranyekan/iranyekanwebextrabold.ttf') format('truetype');
+  font-weight: 800;
+  unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('./assets/fonts/iranyekan/iranyekanwebextrablack.ttf') format('truetype');
+  font-weight: 900;
+  unicode-range: U+0600-06FF;
+}
+
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('./assets/fonts/iranyekan/iranyekanwebextrablack.ttf') format('truetype');
+  font-weight: 1000;
+  unicode-range: U+0600-06FF;
+}
+/* End Iran Yekan Font Family */
+
+/* Poppins Font Family */
+@font-face {
+  font-family: 'Poppins';
+  src: url('./assets/fonts/poppins/Poppins-Light.ttf') format('truetype');
+  font-weight: 300;
+  unicode-range: U+0020-007F;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./assets/fonts/poppins/Poppins-Regular.ttf') format('truetype');
+  font-weight: 400;
+  unicode-range: U+0020-007F;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./assets/fonts/poppins/Poppins-Medium.ttf') format('truetype');
+  font-weight: 500;
+  unicode-range: U+0020-007F;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./assets/fonts/poppins/Poppins-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  unicode-range: U+0020-007F;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('./assets/fonts/poppins/Poppins-Bold.ttf') format('truetype');
+  font-weight: 700;
+  unicode-range: U+0020-007F;
+}
+/* End Poppins Font Family */
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.portal {
+  direction: rtl;
+}
+.portal tr {
+  display: flex;
+}
+.portal td {
+  flex: 1;
+}
+:root {
+  scrollbar-face-color: lightgrey; /* background color (Firefox 63 only) */
+  scrollbar-track-color: white; /* thumb/slider color (Firefox 63 only) */
+
+  /* background color [1. color] // thumb/slider color [2. color] (Firefox 64+) *********/
+  scrollbar-color: lightgrey white;
+
+  /* size/width *************************************************************************/
+  /*	scrollbar-width: auto; = default OS scrollbars
+		scrollbar-width: thin; = small scrollbars without buttons
+		scrollbar-width: none; = scrollbars are hidden
+		scrollbar-width: 17px; (not working yet, but might be supported in the future)  */
+  scrollbar-width: auto;
+}
+
+/* Remove Autofill Highlight*/
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus input:-webkit-autofill,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  border: none !important;
+  -webkit-text-fill-color: inherit !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+input {
+  filter: none;
+}

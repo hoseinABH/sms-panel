@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "lineNumber": 1123000,
+    "assignmentDate": "2021-08-10T04:00:37+00:00",
+    "ExpirationDate": "2022-02-10T04:00:37+00:00",
+    "daysLeft": 310,
+    "permissions": "ارسال و دریافت",
+    "lineType": "تبلیغاتی",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "lineNumber": 1000717,
+    "assignmentDate": "2021-02-10T04:00:37+00:00",
+    "ExpirationDate": "2022-02-10T04:00:37+00:00",
+    "daysLeft": 365,
+    "permissions": "ارسال و دریافت",
+    "lineType": "تبلیغاتی",
+    "status": "expired"
+  },
+  {
+    "id": 3,
+    "lineNumber": 10009175984,
+    "assignmentDate": "2019-02-10T04:00:37+00:00",
+    "ExpirationDate": "2020-02-10T04:00:37+00:00",
+    "daysLeft": -46,
+    "permissions": "ارسال و دریافت",
+    "lineType": "خدماتی",
+    "status": "released"
+  },
+  {
+    "id": 4,
+    "lineNumber": 50001212,
+    "assignmentDate": "2021-02-10T04:00:37+00:00",
+    "ExpirationDate": "2021-02-10T04:00:37+00:00",
+    "daysLeft": 250,
+    "permissions": "ارسال",
+    "lineType": "خدماتی",
+    "status": "banned"
+  },
+  {
+    "id": 5,
+    "lineNumber": 100090806,
+    "assignmentDate": "2021-02-10T04:00:37+00:00",
+    "ExpirationDate": "2021-02-10T04:00:37+00:00",
+    "daysLeft": 56,
+    "permissions": "ارسال و دریافت",
+    "lineType": "تبلیغاتی",
+    "status": "released"
+  }
+]

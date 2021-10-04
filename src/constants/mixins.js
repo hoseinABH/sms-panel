@@ -1,0 +1,5 @@
+export const APPBAR_HEIGHT = 75;
+export const DRAWER_HEADER_HEIGHT = 166;
+export const PAGE_HEADER_HEIGHT = 51;
+export const PAGE_TITLE_BAR_HEIGHT = PAGE_HEADER_HEIGHT - 35;
+export const PAGE_TITLE_HEIGHT = 35;
